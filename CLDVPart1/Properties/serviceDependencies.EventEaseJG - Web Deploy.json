@@ -1,0 +1,12 @@
+{
+  "dependencies": {
+    "storage1": {
+      "serviceConnectorResourceId": "/subscriptions/[parameters('subscriptionId')]/resourceGroups/[parameters('serviceConnectorResourceGroupName')]/providers/Microsoft.Web/sites/EventEaseJG/providers/Microsoft.ServiceLinker/linkers/StorageConnection_F0E4EBFC77, /subscriptions/b4d6fd70-6af2-4266-956f-455d10637d8b/resourceGroups/BookingApplicationWebsite/providers/Microsoft.Web/sites/EventEaseJG/providers/Microsoft.ServiceLinker/linkers/StorageConnection_C60E89AF2B",
+      "secretStore": "AzureAppSettings",
+      "resourceId": "/subscriptions/[parameters('subscriptionId')]/resourceGroups/[parameters('resourceGroupName')]/providers/Microsoft.Storage/storageAccounts/practicejg",
+      "type": "storage.azure",
+      "connectionId": "StorageConnection",
+      "dynamicId": null
+    }
+  }
+}
